@@ -1,3 +1,8 @@
+[<img align="left" alt="zee229 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:yastrebnikita723@gmail.com@gmail.com)
+[<img align="left" alt="zee229 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/nikita-yastreb-8b7b94238/)
+[<img align="left" alt="zee229 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/nikita_yastreb)
+<br/>
+
 ### Hi there 👋
 
 <!--
