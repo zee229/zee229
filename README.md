@@ -1,7 +1,8 @@
 
-# Hey there 👋
-My name is Nikita Yastreb. I'm backend web developer from Ukraine
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&vCenter=true&width=435&lines=hey+there+%F0%9F%91%8B;hows+it+going%3F)](https://git.io/typing-svg)
+<!---
+https://readme-typing-svg.demolab.com/demo/
+-->
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
