@@ -31,7 +31,7 @@ My name is Nikita Yastreb. I'm backend web developer from Ukraine
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
 
-## 🌐 &nbsp;My socials
+## 🌐 &nbsp;Сontact me
 [<img align="left" alt="zee229 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:yastrebnikita723@gmail.com)
 [<img align="left" alt="zee229 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/nikita-yastreb/)
 [<img align="left" alt="zee229 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/nikita_yastreb)
