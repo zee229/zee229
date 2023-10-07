@@ -1,8 +1,5 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&vCenter=true&width=435&lines=hey+there+%F0%9F%91%8B;hows+it+goin%3F)](https://git.io/typing-svg)
-<!---
-https://readme-typing-svg.demolab.com/demo/
--->
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
@@ -33,6 +30,6 @@ https://readme-typing-svg.demolab.com/demo/
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
 
 ## 🌐 &nbsp;Сontact me
-[<img align="left" alt="zee229 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:yastrebnikita723@gmail.com)
-[<img align="left" alt="zee229 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/nikita-yastreb/)
-[<img align="left" alt="zee229 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/nikita_yastreb)
+[<img align="left" alt="zee229 | Gmail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />](mailto:yastrebnikita723@gmail.com)
+[<img align="left" alt="zee229 | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />](https://www.linkedin.com/in/nikita-yastreb/)
+[<img align="left" alt="zee229 | Telegram" width="22px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" />](https://t.me/nikita_yastreb)
