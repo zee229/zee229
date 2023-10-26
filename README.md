@@ -3,9 +3,9 @@
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studing Software Engineering.
-- 👨🏻‍💻 &nbsp; Freelancer 
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks
+- 👨🏻‍💻 &nbsp; Freelancer & Working for Collective Intelligence Group
+- 🎓 &nbsp; Studing Software Engineering
 
 
 ## 🛠 &nbsp;Tech Stack
