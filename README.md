@@ -50,7 +50,7 @@
   ![Discord API](https://img.shields.io/badge/-Discord%20API-333333?style=flat&logo=discord)
   ![Google API](https://img.shields.io/badge/-Google%20API-333333?style=flat&logo=google)
   ![Ethereum API](https://img.shields.io/badge/-Ethereum%20API-333333?style=flat&logo=ethereum)
-  ![Polygon API](https://img.shields.io/badge/-Polygon%20API-333333?style=flat&logo=polygon)
+  ![Polygon API](https://img.shields.io/badge/-Polygon%20API-333333?style=flat&logo=polygon&logoColor=9722e0)
 - 📆 &nbsp;
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=1181bd)
   ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
