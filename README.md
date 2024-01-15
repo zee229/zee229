@@ -12,7 +12,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Golang](https://img.shields.io/badge/-GOLang-333333?style=flat&logo=go)
+  ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
   ![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
