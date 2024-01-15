@@ -43,6 +43,14 @@
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket&logoColor=3da5f5)
   ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
+  ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=flat&logo=digitalocean)
+- 📨 &nbsp;
+  ![Telegram API](https://img.shields.io/badge/-Telegram%20API-333333?style=flat&logo=telegram)
+  ![Discord API](https://img.shields.io/badge/-Discord%20API-333333?style=flat&logo=discord)
+  ![Google API](https://img.shields.io/badge/-Google%20API-333333?style=flat&logo=google)
+  ![Ethereum API](https://img.shields.io/badge/-Ethereum%20API-333333?style=flat&logo=ethereum)
+  ![Polygon API](https://img.shields.io/badge/-Polygon%20API-333333?style=flat&logo=polygon)
 
 ## 🌐 &nbsp;Сontact me
 [<img align="left" alt="zee229 | Gmail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />](mailto:yastrebnikita723@gmail.com)
