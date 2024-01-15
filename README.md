@@ -34,7 +34,7 @@
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
-  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=1854cc)
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
@@ -49,7 +49,7 @@
   ![Telegram API](https://img.shields.io/badge/-Telegram%20API-333333?style=flat&logo=telegram)
   ![Discord API](https://img.shields.io/badge/-Discord%20API-333333?style=flat&logo=discord)
   ![Google API](https://img.shields.io/badge/-Google%20API-333333?style=flat&logo=google)
-  ![Ethereum API](https://img.shields.io/badge/-Ethereum%20API-333333?style=flat&logo=ethereum)
+  ![Ethereum API](https://img.shields.io/badge/-Ethereum%20API-333333?style=flat&logo=ethereum&logoColor=583361)
   ![Polygon API](https://img.shields.io/badge/-Polygon%20API-333333?style=flat&logo=polygon&logoColor=9722e0)
 - 📆 &nbsp;
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=1181bd)
