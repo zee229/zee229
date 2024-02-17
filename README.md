@@ -4,7 +4,7 @@
 ## 👨🏻‍💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks
-- 👨🏻‍💻 &nbsp; Freelancer & Working for Collective Intelligence Group
+- 👨🏻‍💻 &nbsp; Working for Lean Geeks
 - 🎓 &nbsp; Studing Software Engineering
 
 
