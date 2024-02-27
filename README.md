@@ -46,6 +46,7 @@
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
   ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=flat&logo=digitalocean)
+  ![Hetzner](https://img.shields.io/badge/-Hetzner-333333?style=flat&logo=hetzner)
 - 📨 &nbsp;
   ![Telegram API](https://img.shields.io/badge/-Telegram%20API-333333?style=flat&logo=telegram)
   ![Discord API](https://img.shields.io/badge/-Discord%20API-333333?style=flat&logo=discord)
