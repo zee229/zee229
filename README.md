@@ -4,7 +4,7 @@
 ## 👨🏻‍💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks
-- 👨🏻‍💻 &nbsp; Working for Lean Geeks
+- 👨🏻‍💻 &nbsp; Working for Lean Geeks (XAgency AI)
 - 🎓 &nbsp; Studing Software Engineering
 
 
