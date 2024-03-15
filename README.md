@@ -30,7 +30,7 @@
 - 📦 &nbsp;
   ![Celery](https://img.shields.io/badge/-Celery-333333?style=flat&logo=celery&logoColor=2cf26b)
   ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
-  ![Gunicorn](https://img.shields.io/badge/-Gunicorn-333333?style=flat&logo=gunicorn)
+  ![GUnicorn](https://img.shields.io/badge/-Gunicorn-333333?style=flat&logo=gunicorn)
   ![NGINX](https://img.shields.io/badge/-NGINX-333333?style=flat&logo=nginx&logoColor=1cb028)
   ![caddy](https://img.shields.io/badge/-caddy-333333?style=flat&logo=caddy)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
