@@ -65,6 +65,6 @@
   ![Basecamp](https://img.shields.io/badge/-Basecamp-333333?style=flat&logo=basecamp&logoColor=f0e930)
 
 ## 🌐 &nbsp;Сontact me
-[<img align="left" alt="zee229 | Gmail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />](mailto:yastrebnikita723@gmail.com)
+[<img align="left" alt="zee229 | Gmail" width="22px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />](mailto:me@nikita-yastreb.com)
 [<img align="left" alt="zee229 | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />](https://www.linkedin.com/in/nikita-yastreb/)
 [<img align="left" alt="zee229 | Telegram" width="22px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" />](https://t.me/nikita_yastreb)
