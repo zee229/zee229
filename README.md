@@ -3,8 +3,8 @@
 
 ## 👨🏻‍💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks
-- 👨🏻‍💻 &nbsp; Working for XAgency AI (Lean Geeks)
+- 🤔 &nbsp; Developing all kinds of cool stuff that will enslave us
+- 👨🏻‍💻 &nbsp; Working for XAgency AI
 - 🎓 &nbsp; Studing Software Engineering
 
 
