@@ -17,10 +17,10 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - 🏗 &nbsp;
-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+  ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=LangChain)
   ![DRF](https://img.shields.io/badge/DRF-333333?style=flat&logo=django)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
-  ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=LangChain)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 - 📦 &nbsp;
   ![Celery](https://img.shields.io/badge/-Celery-333333?style=flat&logo=celery&logoColor=2cf26b)
   ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
