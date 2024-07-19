@@ -15,7 +15,6 @@
   ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
   ![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - 🏗 &nbsp;
   ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=LangChain)
   ![DRF](https://img.shields.io/badge/DRF-333333?style=flat&logo=django)
