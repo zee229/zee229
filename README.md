@@ -17,6 +17,7 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 - 🏗 &nbsp;
   ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=LangChain)
+  ![LangFlow](https://img.shields.io/badge/-LangFlow-333333?style=flat&logo=LangFlow)
   ![DRF](https://img.shields.io/badge/DRF-333333?style=flat&logo=django)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
