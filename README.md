@@ -61,6 +61,7 @@
 - 📆 &nbsp;
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=1181bd)
   ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
+  ![Asana](https://img.shields.io/badge/-Asana-333333?style=flat&logo=asana&logoColor=b861ed)
   ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack&logoColor=b861ed)
   ![Basecamp](https://img.shields.io/badge/-Basecamp-333333?style=flat&logo=basecamp&logoColor=f0e930)
 
