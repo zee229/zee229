@@ -4,7 +4,7 @@
 ## 👨🏻‍💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Developing all kinds of cool stuff that will enslave us
-- 👨🏻‍💻 &nbsp; Working for XAgency AI
+- 👨🏻‍💻 &nbsp; Working for XnGen AI
 - 🎓 &nbsp; Studing Software Engineering
 
 
