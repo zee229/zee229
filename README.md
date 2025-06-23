@@ -4,8 +4,7 @@
 ## 👨🏻‍💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Developing all kinds of cool stuff that will enslave us
-- 👨🏻‍💻 &nbsp; Working for XnGen AI
-- 🎓 &nbsp; Studing Software Engineering
+- 👨🏻‍💻 &nbsp; Working for Moment37 (Cloud37)
 
 
 ## 🛠 &nbsp;Tech Stack
